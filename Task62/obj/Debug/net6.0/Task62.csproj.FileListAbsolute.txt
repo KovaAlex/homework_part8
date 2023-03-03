@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/bin/Debug/net6.0/Task62
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/bin/Debug/net6.0/Task62.deps.json
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/bin/Debug/net6.0/Task62.runtimeconfig.json
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/bin/Debug/net6.0/Task62.dll
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/bin/Debug/net6.0/Task62.pdb
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/Task62.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/Task62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/Task62.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/Task62.AssemblyInfo.cs
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/Task62.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/Task62.dll
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/refint/Task62.dll
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/Task62.pdb
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/Task62.genruntimeconfig.cache
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s8/Task62/obj/Debug/net6.0/ref/Task62.dll
